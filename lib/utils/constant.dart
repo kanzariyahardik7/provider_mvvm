@@ -1,0 +1,4 @@
+String token =
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NTEsIm5hbWUiOiJIYXJkaWsgS2FuemFyaXlhICIsInR5cGUiOiJ2ZW5kb3IiLCJpYXQiOjE3MTMyNTYwMTMsImV4cCI6MTcxMzUxNTIxM30.ESp61UhQpNejcSpex5fy_i0ID99GC4i0FFudcZH2RTo";
+// isDarkMode
+bool isdarkMode = false;
